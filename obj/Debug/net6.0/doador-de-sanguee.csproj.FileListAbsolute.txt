@@ -1,0 +1,15 @@
+C:\Users\geniv\Documents\aula-pc1\doador-de-sanguee\obj\Debug\net6.0\doador-de-sanguee.csproj.AssemblyReference.cache
+C:\Users\geniv\Documents\aula-pc1\doador-de-sanguee\obj\Debug\net6.0\doador-de-sanguee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geniv\Documents\aula-pc1\doador-de-sanguee\obj\Debug\net6.0\doador-de-sanguee.AssemblyInfoInputs.cache
+C:\Users\geniv\Documents\aula-pc1\doador-de-sanguee\obj\Debug\net6.0\doador-de-sanguee.AssemblyInfo.cs
+C:\Users\geniv\Documents\aula-pc1\doador-de-sanguee\obj\Debug\net6.0\doador-de-sanguee.csproj.CoreCompileInputs.cache
+C:\Users\geniv\Documents\aula-pc1\doador-de-sanguee\bin\Debug\net6.0\doador-de-sanguee.exe
+C:\Users\geniv\Documents\aula-pc1\doador-de-sanguee\bin\Debug\net6.0\doador-de-sanguee.deps.json
+C:\Users\geniv\Documents\aula-pc1\doador-de-sanguee\bin\Debug\net6.0\doador-de-sanguee.runtimeconfig.json
+C:\Users\geniv\Documents\aula-pc1\doador-de-sanguee\bin\Debug\net6.0\doador-de-sanguee.dll
+C:\Users\geniv\Documents\aula-pc1\doador-de-sanguee\bin\Debug\net6.0\doador-de-sanguee.pdb
+C:\Users\geniv\Documents\aula-pc1\doador-de-sanguee\obj\Debug\net6.0\doador-de-sanguee.dll
+C:\Users\geniv\Documents\aula-pc1\doador-de-sanguee\obj\Debug\net6.0\refint\doador-de-sanguee.dll
+C:\Users\geniv\Documents\aula-pc1\doador-de-sanguee\obj\Debug\net6.0\doador-de-sanguee.pdb
+C:\Users\geniv\Documents\aula-pc1\doador-de-sanguee\obj\Debug\net6.0\doador-de-sanguee.genruntimeconfig.cache
+C:\Users\geniv\Documents\aula-pc1\doador-de-sanguee\obj\Debug\net6.0\ref\doador-de-sanguee.dll
